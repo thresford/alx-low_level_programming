@@ -1,1 +1,3 @@
-Preprocessor
+#!/bin/bash
+0-preprocessor
+
